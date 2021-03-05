@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="button_details_text">Details</string>
+    <string name="button_photo_text">Take photo</string>
+    <string name="button_camera_text">Camera</string>
+    <string name="button_send_text">Send</string>
+    <string name="email_send_text">Send your email</string>
+    <string name="textview_message_default_text">Message:</string>
+    <string name="textview_to_default_text">To:</string>
+    <string name="textview_subject_default_text">Subject:</string>
+    <string name="enter_email_details">Enter email details</string>
+    <string name="textview_message_text">Message: %s</string>
+    <string name="textview_to_text">To: %s</string>
+    <string name="textview_subject_text">Subject: %s</string>
+    <string name="confirm">Confirm</string>
+    <string name="enter_email_details">Enter email details</string>
+    <string name="cancel">Cancel</string>
+    <string name="email_address">Email address</string>
+    <string name="email_subject">Email subject</string>
+    <string name="email_text">Email text</string>
+</resources>
