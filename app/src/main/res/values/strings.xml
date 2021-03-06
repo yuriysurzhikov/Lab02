@@ -13,9 +13,10 @@
     <string name="textview_to_text">To: %s</string>
     <string name="textview_subject_text">Subject: %s</string>
     <string name="confirm">Confirm</string>
-    <string name="enter_email_details">Enter email details</string>
     <string name="cancel">Cancel</string>
     <string name="email_address">Email address</string>
     <string name="email_subject">Email subject</string>
     <string name="email_text">Email text</string>
+    <string name="action_canceled">Action was canceled!</string>
+    <string name="error_no_found_activity">No activity found for this action!</string>
 </resources>
