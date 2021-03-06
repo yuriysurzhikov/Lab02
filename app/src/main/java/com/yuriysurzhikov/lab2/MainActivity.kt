@@ -110,7 +110,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private val openDetailsListener = View.OnClickListener {
-        val detailsIntent = Intent(this, DetailsActivity::class.java)
+        val detailsIntent = Intent(this, DetailsActivity::class.java).apply {
+            putExtra(DetailsActivity.EMAIL_OBJECT_NAME, emailObject)
+        }
         startActivityForResult(detailsIntent, EMAIL_REQUEST_CODE)
     }
 
